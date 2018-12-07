@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 6 Dec 2018 20:33:03 -0500
+Source: grub-themes-mx
+Binary: grub-themes-mx
+Architecture: source all
+Version: 18.12.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphin oracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphin@littlebyte>
+Description:
+ grub-themes-mx - misc grub themes for mx linux
+Changes:
+ grub-themes-mx (18.12.01) mx; urgency=medium
+ .
+   * initial commit
+Checksums-Sha1:
+ 9018a978f27ddc7e8a546682bd46afc8e6a9f785 571 grub-themes-mx_18.12.01.dsc
+ 60df39fc25cda02f3841b0f6db1b1ec4e5beb87a 4437472 grub-themes-mx_18.12.01.tar.xz
+ fdb11bc9e8006a5fa353d9a24dc8ecbe251b0971 4439810 grub-themes-mx_18.12.01_all.deb
+ 986c4b8d12b5e4b40ea5666ad575a10a1b280c3d 4985 grub-themes-mx_18.12.01_amd64.buildinfo
+Checksums-Sha256:
+ 5efa264315914629d72028db32bccac9c06a0be996318b1f563cd01109baca09 571 grub-themes-mx_18.12.01.dsc
+ 64884b531b33eb3d6b09f4e990161e7679c879be11a6772206545b55fe77c5a7 4437472 grub-themes-mx_18.12.01.tar.xz
+ 1097cea8ecf5350b853fd31936da010d9c313cd9fd473d2a9e9bd761439b2f9e 4439810 grub-themes-mx_18.12.01_all.deb
+ b5643fb81bc491574d23410b7f4287be7f0ed0a48379b95c2c07e7eb07fec674 4985 grub-themes-mx_18.12.01_amd64.buildinfo
+Files:
+ 4cffb8df7197de43b8fb1abbd9a6cac0 571 xfce extra grub-themes-mx_18.12.01.dsc
+ 26b53f1e4d1efbe43da1a248f2dbb013 4437472 xfce extra grub-themes-mx_18.12.01.tar.xz
+ 6e61015877f8eec4ac2439d2d09eeb21 4439810 xfce extra grub-themes-mx_18.12.01_all.deb
+ d19be281e01badd048461ca969898f25 4985 xfce extra grub-themes-mx_18.12.01_amd64.buildinfo
