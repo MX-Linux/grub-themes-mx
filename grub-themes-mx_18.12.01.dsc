@@ -9,8 +9,8 @@ Build-Depends: debhelper (>= 8.0.0)
 Package-List:
  grub-themes-mx deb xfce extra arch=all
 Checksums-Sha1:
- 60df39fc25cda02f3841b0f6db1b1ec4e5beb87a 4437472 grub-themes-mx_18.12.01.tar.xz
+ fdcd64a96daf84bb97081387e822caee6600c24b 7053864 grub-themes-mx_18.12.01.tar.xz
 Checksums-Sha256:
- 64884b531b33eb3d6b09f4e990161e7679c879be11a6772206545b55fe77c5a7 4437472 grub-themes-mx_18.12.01.tar.xz
+ 68eca6192c2ee17cac36916b866b0e438d0bbe8b4c940e8f89586ea16fdbb543 7053864 grub-themes-mx_18.12.01.tar.xz
 Files:
- 26b53f1e4d1efbe43da1a248f2dbb013 4437472 grub-themes-mx_18.12.01.tar.xz
+ 78c4aa4dc1d4609d976f9ffbf1d6b3fa 7053864 grub-themes-mx_18.12.01.tar.xz
