@@ -15,17 +15,17 @@ Changes:
  .
    * initial commit
 Checksums-Sha1:
- 8bdde3c4eaff622dba2c4de2f92f882cf147d31e 571 grub-themes-mx_18.12.01.dsc
- fdcd64a96daf84bb97081387e822caee6600c24b 7053864 grub-themes-mx_18.12.01.tar.xz
- 58b135ac795089b7ed13b4bbad228093ee01fefe 7056344 grub-themes-mx_18.12.01_all.deb
- 61a1c6deffd7545aee4f7409a8222eae8cd35b26 4985 grub-themes-mx_18.12.01_amd64.buildinfo
+ f8e6d0c5c70a48f3578062bebd0d98a097105303 571 grub-themes-mx_18.12.01.dsc
+ 81cdbcdf5b8d068afcaeb606b85b484770aeed1e 7386972 grub-themes-mx_18.12.01.tar.xz
+ f6b48deba264ea95e9d880331de95a8faf876d50 7389410 grub-themes-mx_18.12.01_all.deb
+ 6f676fe3147ac4955cc65d7405f5b5c16890e9e4 4985 grub-themes-mx_18.12.01_amd64.buildinfo
 Checksums-Sha256:
- abd8395d1b9778c0688ba47436d3b95616ecd527da0fda8fb6894c90e231366c 571 grub-themes-mx_18.12.01.dsc
- 68eca6192c2ee17cac36916b866b0e438d0bbe8b4c940e8f89586ea16fdbb543 7053864 grub-themes-mx_18.12.01.tar.xz
- 86bff5073797659a46a4d20104f881604bb01e847b18635bba75135e25fd95be 7056344 grub-themes-mx_18.12.01_all.deb
- a836812c69f7d28fc709986711e8872d58a2f56c5c2a15800fb004c0a85fc688 4985 grub-themes-mx_18.12.01_amd64.buildinfo
+ 21c7482a8428842fd8a68ae73c9bc2a520b7f9d07df74f8203dccf3a4bab0396 571 grub-themes-mx_18.12.01.dsc
+ 0d67e067c64d2137aa8dbbd578a3342976054c8fbb64dd458b3e54147123b870 7386972 grub-themes-mx_18.12.01.tar.xz
+ 23ba98e1269ac0a3ac1aef7ad95723f86b3a9f9d66709c86d28a519a41f267bb 7389410 grub-themes-mx_18.12.01_all.deb
+ fe8b70e98cc8f31fee451a94614b0b49986b82f88079bad013eba0b4e6c33381 4985 grub-themes-mx_18.12.01_amd64.buildinfo
 Files:
- 0cad3464d8097fa9256fcf9df12f97c6 571 xfce extra grub-themes-mx_18.12.01.dsc
- 78c4aa4dc1d4609d976f9ffbf1d6b3fa 7053864 xfce extra grub-themes-mx_18.12.01.tar.xz
- 8b94e9815dba9510cc2fea5c610d80d5 7056344 xfce extra grub-themes-mx_18.12.01_all.deb
- 690939d51bdc925bc485c127204897ea 4985 xfce extra grub-themes-mx_18.12.01_amd64.buildinfo
+ b0ee1099f685e50982f75c11152a55b0 571 xfce extra grub-themes-mx_18.12.01.dsc
+ 062ba238ffe35956e5229453421c16a2 7386972 xfce extra grub-themes-mx_18.12.01.tar.xz
+ 3f4ac1f5b02ad950f58bb62b7e5d10ff 7389410 xfce extra grub-themes-mx_18.12.01_all.deb
+ e4e1501fcf6af4d9a4218968e1ffc94a 4985 xfce extra grub-themes-mx_18.12.01_amd64.buildinfo
