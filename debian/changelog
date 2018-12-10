@@ -1,3 +1,10 @@
+grub-themes-mx (18.12.02) mx; urgency=medium
+
+  * revised ribbon theme
+  * added gradient theme 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 09 Dec 2018 20:49:35 -0500
+
 grub-themes-mx (18.12.01) mx; urgency=medium
 
   * initial commit
