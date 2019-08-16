@@ -1,3 +1,9 @@
+grub-themes-mx (19.08.01) mx; urgency=medium
+
+  * updated mx_linux theme 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 15 Aug 2019 21:18:47 -0400
+
 grub-themes-mx (18.12.02) mx; urgency=medium
 
   * revised ribbon theme
