@@ -1,3 +1,9 @@
+grub-themes-mx (19.08.02) mx; urgency=medium
+
+  * added linen theme 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 19 Aug 2019 17:54:59 -0400
+
 grub-themes-mx (19.08.01) mx; urgency=medium
 
   * updated mx_linux theme 
