@@ -1,3 +1,11 @@
+grub-themes-mx (25.08.06) mx; urgency=medium
+
+  * use Maturity-base for background
+  * live theme as mx_linux_star_logo
+  * Old mx_linux is mx_linux_classic
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 16 Aug 2025 09:58:56 -0400
+
 grub-themes-mx (25.08.05) mx; urgency=medium
 
   * use Maturity for background
