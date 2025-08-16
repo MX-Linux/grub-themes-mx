@@ -1,3 +1,10 @@
+grub-themes-mx (25.08.07mx25) mx; urgency=medium
+
+  * remove mx-linux-classic
+  * update starfield image
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 16 Aug 2025 16:28:16 -0400
+
 grub-themes-mx (25.08.06) mx; urgency=medium
 
   * use Maturity-base for background
