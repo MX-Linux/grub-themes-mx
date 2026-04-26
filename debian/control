@@ -2,8 +2,8 @@ Source: grub-themes-mx
 Section: xfce
 Priority: extra
 Maintainer: dolphin oracle <dolphinoracle@gmail.com>
-Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.1
 
 Package: grub-themes-mx
 Architecture: all
